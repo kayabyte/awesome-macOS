@@ -77,8 +77,10 @@
 
 ### Data Recovery
 
+- [AlbumRescue](https://kayabyte.dev/mac/albumrescue/) - Recovers photos, videos, and full album hierarchies from corrupted Apple Photos libraries strictly read-only.
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - Comprehensive and professional data recovery for a multitude of scenarios.
 - [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - Recover from filesystem corruptions when Disk Utility is out of options.
+- [NoteRescue](https://kayabyte.dev/mac/noterescue/) - Extracts lost Apple Notes, Contacts, and Safari tabs from Time Machine snapshots without rolling back macOS.
 
 
 ### Developers
